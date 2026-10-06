@@ -26,9 +26,11 @@
 
 It opens the page in a real browser, takes a screenshot, and lays it out in a **1200×630 card**:
 
-- the page's own **title**, **description** and **icon**
-- a live **screenshot** in a tilted browser window with a red→blue edge
+- a live **screenshot** of the page on top of a rounded card with a red→blue edge
+- the page's own **title**, **description** and **icon** underneath
 - red and blue glows, a gradient line along the bottom and the **sherin.fun** signature
+
+Everything that matters sits in the **middle square** of the image, so the card stays whole in the square crop that WhatsApp and iMessage use, and in the wide previews of LinkedIn, X, Discord and Slack.
 
 Because the card is made from the live page, the preview is never out of date.
 
