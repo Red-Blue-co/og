@@ -1,0 +1,13 @@
+{
+  "name": "og",
+  "version": "1.0.0",
+  "description": "Link preview images for sherin.fun sites: a screenshot of the page in a red-blue card",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.21.2",
+    "playwright": "^1.49.1"
+  }
+}
