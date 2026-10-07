@@ -42,6 +42,19 @@ Because the card is made from the live page, the preview is never out of date.
 
 ---
 
+<!-- EVERY PLATFORM -->
+<img src="https://capsule-render.vercel.app/api?type=rect&height=120&color=0:0f0505,25:1a0a0a,50:ef4444,75:3b82f6,100:000000&text=EVERY%20PLATFORM&fontColor=f8fafc&fontSize=30" />
+
+Apps show link previews in different shapes. LinkedIn, X, Discord and Slack use the **wide banner**; WhatsApp and iMessage often cut out a **square from the middle**. The card is built so both look complete:
+
+<div align="center">
+
+<img src="showcase.png" width="820" alt="Wide preview and square crop for qode.sherin.fun and app.sherin.fun" />
+
+</div>
+
+---
+
 <!-- FEATURES -->
 <img src="https://capsule-render.vercel.app/api?type=rect&height=120&color=0:0f0505,25:1a0a0a,50:ef4444,75:3b82f6,100:000000&text=FEATURES&fontColor=f8fafc&fontSize=30" />
 
@@ -130,6 +143,16 @@ _The portfolio at **sherin.fun** keeps its own hand-made preview image._
 This project is licensed under the **Red-Blue-co License**.
 
 ---
+
+## Author
+
+**Sherin Varghese**, software engineer in Berlin
+
+- Website and portfolio: [sherin.fun](https://sherin.fun)
+- GitHub: [@Sherin-V](https://github.com/Sherin-V)
+- LinkedIn: [Sherin Varghese](https://www.linkedin.com/in/sherin-varghese-04b6831ba/)
+- Email: [admin@sherin.fun](mailto:admin@sherin.fun)
+
 
 <div align="center">
 
